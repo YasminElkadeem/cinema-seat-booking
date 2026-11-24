@@ -64,7 +64,7 @@ Two Seat objects are considered equal when they have the same row and seat numbe
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone [YOUR_REPOSITORY_URL](https://github.com/YasminElkadeem/cinema-seat-booking.git)
 ```
 
 2. Open the project folder.
